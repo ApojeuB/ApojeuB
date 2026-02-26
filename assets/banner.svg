@@ -1,1 +1,26 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0c10"></stop>
+      <stop offset="100%" stop-color="#1a1f2b"></stop>
+    </linearGradient>
 
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="url(#bg)"></rect>
+
+  <text x="50%" y="45%" text-anchor="middle" font-size="48" fill="#d6b26e" font-family="Verdana" filter="url(#glow)">
+        Endrik Barbosa
+  </text>
+
+  <text x="50%" y="65%" text-anchor="middle" font-size="20" fill="#c5c6c7" font-family="Verdana">
+        Frontend Developer • React • TypeScript • Node.js
+  </text>
+</svg>

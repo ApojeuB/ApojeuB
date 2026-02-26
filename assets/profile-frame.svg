@@ -1,0 +1,15 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="goldGlow">
+      <feGaussianBlur stdDeviation="3" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <circle cx="150" cy="150" r="140" stroke="#d6b26e" stroke-width="6" fill="none" filter="url(#goldGlow)"></circle>
+
+  <circle cx="150" cy="150" r="120" stroke="#8b7500" stroke-width="2" fill="none"></circle>
+</svg>
