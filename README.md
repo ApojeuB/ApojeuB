@@ -14,8 +14,11 @@
 🎭 Formação complementar em **Teatro Profissional**  
 💼 Experiência profissional desde 2024 na área de tecnologia  
 
-Sou desenvolvedor focado em criar aplicações organizadas, performáticas e com identidade visual forte.  
-Busco oportunidades para crescer tecnicamente e contribuir com soluções eficientes dentro de equipes estruturadas.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com previsão de formatura em agosto, e também em formação em Teatro Profissional. Tenho experiência no ambiente de trabalho adquirida desde 2024, iniciando minha trajetória após ser recrutado diretamente para minha primeira oportunidade profissional, onde desenvolvi responsabilidade, disciplina e adaptação ao ambiente corporativo. Atualmente, trabalho na área de distribuição tecnológica, oportunidade que obtive por meio do Ministério do Trabalho, onde continuo aprimorando minhas habilidades profissionais, organização e comprometimento.
+
+Sou uma pessoa dedicada, com grande capacidade de foco, facilidade de aprendizado e forte interesse na área de tecnologia. Tenho experiência com lógica de programação, desenvolvimento de sistemas e estou em constante evolução, buscando aplicar meus conhecimentos na prática e aprender novas tecnologias. Também desenvolvi habilidades importantes como comunicação, trabalho em equipe e expressão através da minha formação em teatro.
+
+Busco uma oportunidade na área de tecnologia onde eu possa crescer profissionalmente, contribuir com minhas habilidades e continuar aprendendo, agregando valor à equipe e à organização.
 
 ---
 
