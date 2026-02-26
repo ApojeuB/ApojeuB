@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Endrik%20Barbosa&fontSize=45&fontColor=d6b26e&animation=fadeIn&color=0b0c10"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=D6B26E&size=20&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Systems+with+Identity;Focused+on+Performance+and+Structure"/>
+<!-- TANUKI CANTO SUPERIOR DIREITO -->
+<p align="right">
+  <img src="assets/tanuki.png" width="170" style="margin-top:-210px;" />
 </p>
 
-<!-- TANUKI MASCOTE -->
 <p align="center">
-  <img src="assets/tanuki.png" width="220" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=D6B26E&size=20&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Systems+with+Identity;Focused+on+Performance+and+Structure"/>
 </p>
 
 ---
