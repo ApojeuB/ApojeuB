@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=D6B26E&size=20&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Systems+with+Identity;Focused+on+Performance+and+Structure"/>
 </p>
 
+<!-- TANUKI MASCOTE -->
+<p align="center">
+  <img src="assets/tanuki.png" width="220" />
+</p>
+
 ---
 
 ## 👋 Olá, eu sou o Endrik!
