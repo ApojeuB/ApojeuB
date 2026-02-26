@@ -19,13 +19,54 @@ Busco oportunidades para crescer tecnicamente e contribuir com soluções eficie
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🛡️ Arsenal Tecnológico
 
-<div align="center">
+<table width="100%">
+<tr align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,css,html,git" />
+<td>
+  <img src="assets/github.gif" width="85" />
+  <br> 🐙 <strong>GitHub</strong>
+</td>
 
-</div>
+<td>
+  <img src="assets/html.gif" width="85" />
+  <br> 🌐 <strong>HTML5</strong>
+</td>
+
+<td>
+  <img src="assets/css.gif" width="85" />
+  <br> 🎨 <strong>CSS3</strong>
+</td>
+
+<td>
+  <img src="assets/typescript.png" width="85" />
+  <br> 🔷 <strong>TypeScript</strong>
+</td>
+
+</tr>
+
+<tr align="center">
+
+<td>
+  <img src="assets/java.gif" width="85" />
+  <br> ☕ <strong>Java</strong>
+</td>
+
+<td>
+  <img src="assets/react.gif" width="85" />
+  <br> ⚛️ <strong>React</strong>
+</td>
+
+<td>
+  <img src="assets/node.gif" width="85" />
+  <br> 🟢 <strong>Node.js</strong>
+</td>
+
+<td></td>
+
+</tr>
+</table>
 
 ---
 
