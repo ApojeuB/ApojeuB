@@ -92,8 +92,10 @@ https://github.com/othonb/PTU-Manager
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ApojeuB&show_icons=true&bg_color=0b0c10&title_color=d6b26e&icon_color=ff7a18&text_color=ffffff&border_color=2a2f3b"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApojeuB&layout=compact&bg_color=0b0c10&title_color=d6b26e&text_color=ffffff&border_color=2a2f3b"/>
+  <a href="https://github.com/ApojeuB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ApojeuB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApojeuB&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ---
